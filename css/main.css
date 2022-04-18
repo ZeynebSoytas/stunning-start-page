@@ -43,7 +43,7 @@ nav li a:nth-child(2) {
   margin-left: 1em;
 }
 
-section ul li div img {
+section li div img {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
