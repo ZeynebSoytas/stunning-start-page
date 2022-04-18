@@ -39,5 +39,5 @@ nav li a:nth-child(1) {
 }
 
 nav li a:nth-child(2) {
-  margin-left: auto;
+  margin-left: 1em;
 }
