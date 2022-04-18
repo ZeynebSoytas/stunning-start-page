@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 *,
@@ -11,6 +10,8 @@ html {
 }
 
 header {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-style: normal;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
@@ -20,7 +21,7 @@ header {
 
 nav ul {
   list-style-type: none;
-  display: flex;
+  display: grid;
   padding: 0;
   margin: 0;
   justify-content: center;
